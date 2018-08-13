@@ -1,21 +1,7 @@
 # vue-bookstore
 
-> vue-bookstore
+>利用vue+vue-cli+webpack写了个简单的网上书店，服务器端用node.js实现的，由于没有买服务器所以不能预览地址。简单介绍一下功能
 
-## Build Setup
+##首页
 
-``` bash
-# install dependencies
-npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
