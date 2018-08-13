@@ -1,6 +1,6 @@
-# y
+# vue-bookstore
 
-> y
+> vue-bookstore
 
 ## Build Setup
 
